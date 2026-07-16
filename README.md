@@ -1,46 +1,64 @@
-### Привет! Я Бобур 👋
+<div align="center">
+  <h1>Привет! Я Бобур 👋</h1>
+  
+  <p><strong>Junior Data Analyst</strong> из Ташкента | Превращаю данные в понятные истории</p>
 
-Junior Data Analyst из Ташкента. Люблю превращать сырые таблицы в 
-понятные цифры, а скучные отчёты — в дашборды, на которые приятно 
-смотреть. Разбираюсь в риск-анализе и фрод-аналитике для банковского 
-и финтех-сектора.
-
-🔍 Сейчас в активном поиске: **Data Analyst (Risk / Fraud)**
-
----
-
-### 🛠 Стек
-`SQL` · `Power BI` · `DAX` · `Excel / Google Sheets`
-
-- **SQL**: JOIN, подзапросы, window functions, CTE, представления, 
-  хранимые процедуры
-- **Power BI**: DAX-меры, модели данных, интерактивные дашборды
-- **Excel / Google Sheets**: сводные таблицы, VLOOKUP, очистка данных
+  <a href="https://t.me/tokhirovboburjon">
+    <img src="https://img.shields.io/badge/Telegram-@tokhirovboburjon-blue?logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://github.com/katanaban888">
+    <img src="https://img.shields.io/github/followers/katanaban888?label=Followers&style=social" alt="Followers"/>
+  </a>
+</div>
 
 ---
 
-### 📊 Проекты
+### 🔍 Сейчас в активном поиске
+**Data Analyst (Risk / Fraud Analysis)** в банковском и финтех-секторе
 
-**[💳 Credit Risk Dashboard](https://github.com/katanaban888/credit-risk-dashboard)**
-Power BI дашборд: approval rate и default rate по сегментам заёмщиков, 
-модель данных со связями, DAX-меры.
-📦 Датасет: [Credit Risk Dataset (Kaggle)](https://www.kaggle.com/datasets/laotse/credit-risk-dataset)
+---
 
-**[🕵️ Fraud Detection Analysis](https://github.com/katanaban888/credit-card-fraud-detection)**
-SQL + Power BI: CTE и window functions для поиска аномалий в 285 000 
-транзакций, визуализация паттернов мошенничества.
-📦 Датасет: [Credit Card Fraud Detection (Kaggle)](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+### 🛠 Технологический стек
 
-**[⚙️ SQL Stored Procedures — автоматизация отчётности](https://github.com/katanaban888/sql-stored-procedures-reporting)**
-Хранимые процедуры в PostgreSQL: параметризованные отчёты вместо 
-ручного SQL каждый месяц.
-📦 База: [Chinook Database (GitHub)](https://github.com/lerocha/chinook-database)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,python,powerbi,excel,git,github&perline=8" />
+</p>
 
-**[🎮 Video Game Sales Analysis](https://github.com/katanaban888/vg-sales-analysis)**
-Сводные таблицы и графики по продажам видеоигр.
-📦 Датасет: [Video Game Sales (Kaggle)](https://www.kaggle.com/datasets/gregorut/videogamesales)
+**Основное:**
+- **SQL** — продвинутый уровень (Window functions, CTE, JOINы, хранимые процедуры)
+- **Power BI** — DAX, модели данных, интерактивные дашборды
+- **Excel / Google Sheets** — сложные формулы, Power Query, сводные таблицы
+
+---
+
+### 📊 Избранные проекты
+
+**💳 [Credit Risk Dashboard](https://github.com/katanaban888/credit-risk-dashboard)**  
+Power BI дашборд с анализом approval rate и default rate.
+
+**🕵️ [Fraud Detection Analysis](https://github.com/katanaban888/credit-card-fraud-detection)**  
+Выявление аномалий в 285k транзакций с помощью SQL + Power BI.
+
+**⚙️ [SQL Stored Procedures](https://github.com/katanaban888/sql-stored-procedures-reporting)**  
+Автоматизация отчётности в PostgreSQL.
+
+**🎮 [Video Game Sales Analysis](https://github.com/katanaban888/vg-sales-analysis)**  
+Анализ продаж видеоигр.
+
+---
+
+### 📈 Статистика
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=katanaban888&show_icons=true&theme=tokyonight&hide_border=true&locale=ru)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=katanaban888&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ### 📫 Связаться со мной
-[Telegram: @tokhirovboburjon](https://t.me/tokhirovboburjon)
+- Telegram: [@tokhirovboburjon](https://t.me/tokhirovboburjon)
+- Email: (добавь если хочешь)
+
+---
+
+*Последнее обновление: 2026*
