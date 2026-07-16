@@ -21,7 +21,7 @@
 ### 🛠 Технологический стек
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,python,powerbi,excel,git,github&perline=8" />
+  <img src="https://skillicons.dev/icons?i=postgresql,sqlite,python,powerbi,excel,git,github&perline=8" />
 </p>
 
 **Основное:**
@@ -57,8 +57,3 @@ Power BI дашборд с анализом approval rate и default rate.
 
 ### 📫 Связаться со мной
 - Telegram: [@tokhirovboburjon](https://t.me/tokhirovboburjon)
-- Email: (добавь если хочешь)
-
----
-
-*Последнее обновление: 2026*
