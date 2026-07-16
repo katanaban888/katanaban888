@@ -47,13 +47,5 @@ Power BI дашборд с анализом approval rate и default rate.
 
 ---
 
-### 📈 Статистика
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=katanaban888&show_icons=true&theme=tokyonight&hide_border=true&locale=ru)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=katanaban888&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ### 📫 Связаться со мной
 - Telegram: [@tokhirovboburjon](https://t.me/tokhirovboburjon)
